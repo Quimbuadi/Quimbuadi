@@ -34,7 +34,7 @@ Sigo uma jornada de autonomia técnica, pensamento livre e construção de siste
 
 ## 📦 Repositórios em destaque
 
-🔧 [`API de Produtos com Node.js | CRUD Completo com Express`](https://github.com/teu-usuario/api-produtos)  
+🔧 [`API de Produtos com Node.js | CRUD Completo com Express`]([https://github.com/teu-usuario/api-produtos](https://github.com/Quimbuadi/projecto_final_node_api))  
 
 ---
 
