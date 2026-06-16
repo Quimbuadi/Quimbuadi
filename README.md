@@ -39,7 +39,7 @@ Currently available for freelance projects.
 
 ## Featured Projects
 
-### [`api-biblioteca`](https://github.com/Quimbuadi/api-biblioteca)
+### [`api-lib`](https://github.com/Quimbuadi/api-lib.git)
 Production-ready library management API built with Node.js, Express, and MySQL. Features JWT authentication with role-based access control, full CRUD for books and categories, file uploads via Multer, Joi validation, and a complete loan system with business rules enforcement.
 
 ### [`Casa-Cheia`](https://github.com/Quimbuadi)
